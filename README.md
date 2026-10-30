@@ -9,12 +9,13 @@ Danh sách CV chứa số điện thoại và mức lương ứng viên bị chi
 
 ### Bảng phân quyền
 
-| Đối tượng | Quyền |
+| Đối  tượng | Quyền |
 |---|---|
-| Trưởng phòng nhân sự | Editor |
-| Trưởng các bộ phận | Commenter |
-| Nhân viên không liên quan | Không cấp quyền |
-| Ứng viên bên ngoài | Không cấp quyền |
+| Trưởng phòng nhân sự | editor |
+| Trưởng các bộ phận | commenter |
+| Nhân viên tuyển dụng HR | editor |
+| Nhân viên công ty | view |
+| Ứng viên bên ngoài | không quyền |
 
 ### Quy trình xử lý sự cố (3 bước)
 
