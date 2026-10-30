@@ -3,14 +3,8 @@
 Danh sách CV chứa số điện thoại và mức lương ứng viên bị chia sẻ nhầm với quyền Editor cho người bên ngoài, gây nguy cơ rò rỉ và chỉnh sửa dữ liệu.
 
 ## 2. Yêu cầu là gì?
-
-- **Viewer:** Chỉ xem dữ liệu.
-- **Commenter:** Xem và nhận xét.
-- **Editor:** Chỉnh sửa dữ liệu.
-- **Quy tắc Cờ Đỏ:** Hạn chế quyền truy cập đối với dữ liệu nhạy cảm.
-- **Suggesting Mode:** Cho phép góp ý mà không sửa trực tiếp nội dung gốc.
-- **Access Audit Log:** Kiểm tra lịch sử truy cập và chia sẻ dữ liệu.
-
+-   Bảng thiết kế phân quyền cho từng đối tượng tưng ứng
+-   Kịnh bản xử lý sự cố , quy trình 3 bước xử lý
 ## 3. Cách làm ra sao?
 
 ### Bảng phân quyền
